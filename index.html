@@ -9,13 +9,13 @@
     <title>Responsive-Flowers</title>
 </head>
 <body>
-    <header class="header w-4/5 mx-auto">
+    <header class="header w-9/10 md:w-4/5 mx-auto">
         <nav class="flex justify-between items-center py-4">
-            <img src="./assets/logo.png" alt="">
+            <img class="w-1/5 sm:w-1/4 md:w-1/6 lg:w-1/10" src="./assets/logo.png" alt="">
             <div class="nav-menu flex gap-12">
-                    <div class="nav-link active-nav-link">Home</div>
-                    <div class="nav-link inactive-nav-link spe">Shop</div>
-                    <div class="nav-link inactive-nav-link">About us</div>
+                    <div class="nav-link active-nav-link hidden md:block">Home</div>
+                    <div class="nav-link inactive-nav-link hidden md:block">Shop</div>
+                    <div class="nav-link inactive-nav-link hidden md:block">About us</div>
                     <div>
                         <i class="fa-solid fa-cart-shopping cart-text"></i>
                         <span class="cart-text">Cart ($56)</span>
