@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.inactive-nav-link {
+    color: #8987A1;
+}
+
+.active-nav-link {
+    color: #252432;
+    font-weight: 700;
+}
