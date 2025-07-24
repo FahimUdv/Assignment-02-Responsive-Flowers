@@ -8,3 +8,41 @@
     color: #252432;
     font-weight: 700;
 }
+
+.description-text {
+    color: black;
+    line-height: 1.25;
+    opacity: 50%;
+    font-family: "Inter", sans-serif;
+}
+
+.hero-text {
+    font-weight: 700;
+    color: black;
+    font-family: "Noto Serif", serif;
+}
+
+.orange {
+    color:#E95A08;
+}
+
+.headline-text {
+    font-weight: 700;
+    font-family: "Noto Serif", serif;
+}
+
+.product-title {
+    font-family: "Inter", sans-serif;
+    
+}
+
+.product-price {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+.cart-button {
+    background-color: #E95A08;
+    color: white;
+    padding: 0.8rem 1rem;
+}
