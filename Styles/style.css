@@ -65,3 +65,13 @@
     font-family: "Inter", sans-serif;
     font-weight: 500;
 }
+
+.subscribe-button {
+    background-color: #E95A08;
+    color: white;
+    /* padding: 0.8rem 4.5rem; */
+}
+
+.footer-links {
+    color: #6B7280;
+}
